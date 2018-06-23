@@ -1,1 +1,1 @@
-console.log("Hello mesh!")
+console.log("Hello mesh!");
